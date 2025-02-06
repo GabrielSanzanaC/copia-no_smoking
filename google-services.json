@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "571745550303",
+    "project_id": "app-nosmoking",
+    "storage_bucket": "app-nosmoking.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571745550303:android:bc86599b6e2bb351160e6a",
+        "android_client_info": {
+          "package_name": "com.no_smoking_app.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571745550303-6485sga5adgjg24a48ijrdite1nf9mic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.no_smoking_app.firebaseapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "571745550303-84m79of6kn1vqd6g8i3jik57l183vla4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjIkBKVivQo-rthusd3ajkctSceSMkf8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571745550303-84m79of6kn1vqd6g8i3jik57l183vla4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
